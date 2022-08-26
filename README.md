@@ -1,5 +1,6 @@
 # Deployment_withorwithout_GIt-Github
 
+
 This is a simple web application using [Python Flask](http://flask.pocoo.org/) and [Pythonanywhere cloud platform ](https://www.pythonanywhere.com/) . 
 Have demonstrated here how to use the Flask application with and without using Github to deploy the application in Web .
 
@@ -110,4 +111,4 @@ Click on top right hand corner 3 dash hamburger .
 	Come back to the main page -> Reload -> Click the URL	
 	Force HTTPS: -> Make it enable -> Reload -> Click the URL	( It creates the URL safe )
   
-                                                            ## Happy Learning ##
+                                                     
